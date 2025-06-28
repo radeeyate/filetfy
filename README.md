@@ -1,6 +1,8 @@
 # filetfy
 
-easy & simple notifications for when a file is created, modified (soon) or deleted.
+![hackatime stats](https://hackatime-badge.hackclub.com/U06V886HQLS/filetfy)
+
+easy & simple notifications for when files are created or deleted.
 
 ## how to use
 
