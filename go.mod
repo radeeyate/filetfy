@@ -1,4 +1,4 @@
-module filetfy
+module github.com/radeeyate/filetfy
 
 go 1.23.4
 
