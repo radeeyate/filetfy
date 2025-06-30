@@ -2,3 +2,5 @@
 filetfy
 main
 .env
+dist/
+cross.sh

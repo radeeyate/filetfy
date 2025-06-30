@@ -6,10 +6,9 @@ easy & simple notifications for when files are created or deleted.
 
 ## how to use
 
-1. clone the repo
-2. copy `.env.example` to `.env` and fill out the variables
-3. compile via `go build .`
-4. run `./filetfy` (or equivelant command, such as `filetfy.exe` on windows) to start watching for files
+1. install via `go install github.com/radeeyate/filetfy@v1.0.1`
+1. create a [`.env` file](./.env.example) and modify to your hearts desire.
+1. run `filetfy` to start watching for files
 
 ## configuration
 
@@ -25,7 +24,7 @@ easy & simple notifications for when files are created or deleted.
 ## contributing
 
 1. fork the repo
-2. create a new branch
-3. make your changes
-4. create a pull request
-5. thanks!
+1. create a new branch
+1. make your changes
+1. create a pull request
+1. thanks!
